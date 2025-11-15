@@ -8,6 +8,7 @@ This guide provides context for Codex when updating the **autogpt_platform** fol
 - `autogpt_platform/autogpt_libs` – Shared Python libraries.
 - `autogpt_platform/frontend` – Next.js + Typescript frontend.
 - `autogpt_platform/docker-compose.yml` – development stack.
+- `browser-agent/` - A small Node + Playwright based example browser agent. See `browser-agent/README.md` for usage and details.
 
 See `docs/content/platform/getting-started.md` for setup instructions.
 

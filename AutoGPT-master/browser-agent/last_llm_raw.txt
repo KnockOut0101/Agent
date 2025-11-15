@@ -1,0 +1,21 @@
+[
+  {
+    "type": "goto",
+    "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon"
+  },
+  {
+    "type": "screenshot",
+    "path": "pokemon_page.png"
+  },
+  {
+    "type": "eval",
+    "script": "document.querySelector('h1').textContent"
+  },
+  {
+    "type": "eval",
+    "script": "document.body.innerHTML"
+  },
+  {
+    "type": "done"
+  }
+]
